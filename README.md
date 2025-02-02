@@ -5,6 +5,6 @@ O Beacon Navigator é um dispositivo vestível inovador que promove a inclusão 
 ## Figma e imagens do hardware
 
 ### Link do Figma: https://www.figma.com/design/vujOFGPnaUHhwUeYWsvnhI/beacon?node-id=0-1&t=KRALwjhg2v6r6Ixn-1 
- <img src='./images/TELAS.png' width="100%">
- <img src='./images/10.png' width="100%">
+ <img src='./imagens-GITHUB/TELAS.png' width="100%">
+ <img src='./imagens-GITHUB/10.png' width="100%">
 
